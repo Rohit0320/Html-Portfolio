@@ -1,5 +1,6 @@
 # HTML-Only Portfolio
 
+This was designed just for the Coding Club at Thakur Shyamnarayan Engineering College as it helped as an after project for all the upcoming coders as I was the Mentor conducting the session
 A lightweight, single-file personal portfolio built entirely with **pure HTML** — no CSS, no JavaScript.  
 This site showcases sections like **About**, **Skills**, **Projects**, **Achievements**, **Education**, and **Contact**, all in a simple and portable format.
 
